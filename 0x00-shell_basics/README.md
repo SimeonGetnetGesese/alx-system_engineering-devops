@@ -3,3 +3,4 @@
 3rd question about bringing me home directory is in 2-bring_me_home
 answer for 4th question is in 3-listfiles
 Answer for the 5th question is in 4-listmorefiles
+6th question answer
